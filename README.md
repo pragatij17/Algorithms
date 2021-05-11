@@ -1,6 +1,5 @@
 # Algorithms
-
-Experimented and implemented different algorithms with both navie and effective method.
+Implemented different algorithms with both navie and effective method.
 
 The repository will be updated over time.
 
